@@ -1,0 +1,11 @@
+body {
+    font-family: Verdena, sans-serif;
+}
+
+#shape {
+    width: 200px;
+    height: 200px;
+    background-color: purple;
+    display: none;
+    position: relative;
+}
